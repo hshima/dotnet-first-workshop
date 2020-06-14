@@ -1,0 +1,13 @@
+D:\dotnet\review\obj\Debug\netcoreapp3.1\review.csprojAssemblyReference.cache
+D:\dotnet\review\obj\Debug\netcoreapp3.1\review.AssemblyInfoInputs.cache
+D:\dotnet\review\obj\Debug\netcoreapp3.1\review.AssemblyInfo.cs
+D:\dotnet\review\obj\Debug\netcoreapp3.1\review.csproj.CoreCompileInputs.cache
+D:\dotnet\review\bin\Debug\netcoreapp3.1\review.exe
+D:\dotnet\review\bin\Debug\netcoreapp3.1\review.deps.json
+D:\dotnet\review\bin\Debug\netcoreapp3.1\review.runtimeconfig.json
+D:\dotnet\review\bin\Debug\netcoreapp3.1\review.runtimeconfig.dev.json
+D:\dotnet\review\bin\Debug\netcoreapp3.1\review.dll
+D:\dotnet\review\bin\Debug\netcoreapp3.1\review.pdb
+D:\dotnet\review\obj\Debug\netcoreapp3.1\review.dll
+D:\dotnet\review\obj\Debug\netcoreapp3.1\review.pdb
+D:\dotnet\review\obj\Debug\netcoreapp3.1\review.genruntimeconfig.cache
